@@ -1,4 +1,4 @@
-# Contributing to Max Mix
+# Contributing
 
 A big welcome and thank you for considering contributing to Max Mix! It’s people like you that make it a reality for users in our community.
 
@@ -50,7 +50,3 @@ In general, we follow the ["fork-and-pull" Git workflow](https://github.com/susa
 5. Following any formatting and testing guidelines specific to this repo
 6. Push changes to your fork
 7. Open a PR in our repository and follow the PR template so that we can efficiently review the changes.
-
-## Getting Help
-
-Join us in the [...](https://google.com) and post your question there in the correct category with a descriptive tag.
